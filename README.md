@@ -162,6 +162,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Simplify Search woth Multilingual Embedding Models](https://blog.vespa.ai/simplify-search-with-multilingual-embeddings/)
 
 ## Libraries and Tools
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for AI agent trust scoring. Semantic agent identity resolution and on-chain trust receipts for AI retrieval pipelines. PyPI: `pip install twzrd-agent-intel`.
 - [fastText](https://fasttext.cc/)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
 - [SBERT](https://www.sbert.net/)
